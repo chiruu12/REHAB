@@ -4,16 +4,6 @@ Welcome to REHAB, your comprehensive assistant for enhancing resumes, creating c
 
 **This repository is a standalone project** designed to offer personalized assistance in resume building and career development.
 
-## Demo
-
-### Example 1: Resume Enhancement
-
-![Resume Enhancement](assets/resume_enhancement.png)
-
-### Example 2: Cover Letter Creation
-
-![Cover Letter Creation](assets/cover_letter_creation.png)
-
 ## Table of Contents
 
 1. [Project Description](#project-description)
