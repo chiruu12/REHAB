@@ -1,0 +1,10 @@
+streamlit==1.36.0
+langchain-community==0.2.7
+langchain-core==0.2.37
+langchain-google-genai==1.0.10
+requests==2.32.3
+beautifulsoup4==4.12.3
+pandas==2.2.2
+numpy==1.26.4
+pdfminer.six==20240706
+PyPDF2==3.0.1
