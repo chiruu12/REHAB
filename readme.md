@@ -50,12 +50,12 @@ REHAB utilizes Google Gemini GenAI for processing user queries and generating ac
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-repository/research-assistant-bot.git
+    git clone https://github.com/chiruu12/REHAB.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd research-assistant-bot
+    cd REHAB
     ```
 
 3. **Install Required Packages**:
@@ -78,12 +78,12 @@ REHAB utilizes Google Gemini GenAI for processing user queries and generating ac
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-repository/research-assistant-bot.git
+    git clone https://github.com/chiruu12/REHAB.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd resume-assistant-bot
+    cd REHAB
     ```
 
 3. **Build the Docker Image**:
